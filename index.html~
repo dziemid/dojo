@@ -1,0 +1,155 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Coding dojos @Nokia</title>
+    
+    <meta name="description" content="Desc" />
+    <meta name="author" content="Greg Dziemidowicz" />
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+
+    <link href="css/dojo.css" rel="stylesheet" />
+    
+</head>
+
+
+<div id="impress">
+
+
+    <div id="title" class="step" data-x="0" data-y="-800" data-scale="4">
+	<span class="content">
+		<p class="small">Experience report</p>
+		<p class="big">Coding Dojos @Nokia Berlin</p>
+	</span>
+    </div>
+
+    <div id="s1" class="step" data-x="-870" data-y="-300" data-scale="2">
+	<p>Greg Dziemidowicz</p>
+	<p>@dziemid</p>
+	<p>why am I talking to you about this?</p>
+    </div>
+
+    <div id="aboutTheAudience1" class="step" data-x="2500" data-y="400" data-scale="0.5">
+	<p>Coding dojo?</p>
+	
+    </div>
+
+ <div id="aboutTheAudience2" class="step" data-x="2500" data-y="500" data-scale="0.5">
+	<p>Attend reguraly?</p>
+    </div>
+
+ <div id="aboutTheAudience3" class="step" data-x="2500" data-y="600" data-scale="0.5">
+	<p>Facilitates?</p>
+    </div>
+
+ <div id="aboutTheAudience4" class="step" data-x="2500" data-y="700" data-scale="0.5">
+	<p>Expectations?</p>
+    </div>
+
+
+   <div id="agenda" class="step" data-x="3000" data-y="1500" data-scale="8">
+   </div>
+
+    <div id="whodojo" class="step" data-x="-1000" data-y="1000" data-scale="2">
+	<p style="font-size: 280px;">Why?</p>
+    </div>
+
+   <div id="deliberatePractice" class="step" data-x="-1300" data-y="1700" data-rotate="-90" data-scale="2">
+	<p style="font-size: 80px;">Deliberate practice</p>
+	<img src="talent.jpg" width="350px" height="550px">
+
+   </div>
+
+   <div id="benefits" class="step" data-x="200" data-y="1700" data-rotate="50" data-scale="2">
+	<p style="font-size: 180px;">Benefits</p>
+   </div>
+
+
+
+    <div id="s3" class="step" data-x="3000" data-y="1000" data-scale="3">
+	The first dojo
+    </div>
+
+    <div id="format_title" class="step" data-x="5000" data-y="-2000"  data-rotate="-90" data-scale="6">
+	<p style="font-size: 100px;">Format<p>
+    </div>
+
+    <div id="format_picture" class="step" data-x="5600" data-y="-400" data-rotate="-90" data-scale="0.7">
+	<img src="format.jpg"></img>
+    </div>
+
+    <div id="format_hour" class="step" data-x="5800" data-y="100" data-scale="1">
+	<p style="font-size: 230px;">1 hour</p>
+    </div>
+
+    <div id="format_details" class="step" data-x="5600" data-y="-500"  data-rotate="-90" data-scale="3">
+	<p style="font-size: 30px;">
+		<b>Time breakdown</b>
+		<ul style="font-size: 30px;">
+		<li>Goal setting</li>
+		<li style="font-size: 80px;">Coding</li>
+		<li>Retrospective</li>
+		<ul>
+	</p>
+    </div>
+
+
+
+    <div id="s7" class="step" data-x="2500" data-y="4600" data-rotate="40" data-scale="6">
+	<p style="font-size: 80px;">Done so far</p>
+    </div>
+
+    <div id="s6" class="step" data-x="3500" data-y="2000" data-scale="5">
+	<p style="font-size: 100px;">Works for us</p>	
+    </div>
+
+    <div id="challanges" class="step" data-x="7000" data-y="2500" data-rotate="-60" data-scale="5">
+	<p style="font-size: 150px;">Challanges</p>
+    </div>
+
+    <div id="challanges_setup" class="step" data-x="5350" data-y="3800" data-scale="1.5">
+	<div style="position: absolute; top: -100px; left: 600px;">	
+	<img src="keyboard.jpg" width="428px" height="148px" />
+	</div>
+	<p style="font-size: 130px;">Setup differences</p>
+	<p>
+		<img src="eclipse.png"/> 
+		<img src="idea.png" width="128px" height="128px"/>
+		<img src="vim.png" width="128px" height="128px"/>
+		<img src="emacs.png" width="128px" height="128px"/>
+	</p>
+		<img src="windows.png" width="128px" height="128px"/>
+		<img src="ubuntu.png" width="128px" height="128px"/>
+		<img src="apple.png" width="128px" height="128px"/>
+
+    </div>
+
+    <div id="challanges_interest_in_dojo" class="step" data-x="5800" data-y="2800" data-scale="1.5">
+	<p style="font-size: 70px;">Keeping people interest in dojos</p>
+    </div>
+
+   <div id="challanges_engage_during_dojo" class="step" data-x="6600" data-y="2000" data-scale="1.5">
+	<p style="font-size: 70px;">Keeping people engaged</p>
+    </div>
+
+
+    <div id="overview" class="step" data-x="3000" data-y="1500" data-scale="8">
+    </div>
+
+</div>
+
+
+<script src="js/impress.js"></script>
+<script>impress().init();</script>
+
+<div style="position: fixed; bottom: 10px; left: 10px; pointer-events: auto; font-size: 10px;">
+<a href="#agenda">Agenda</a>
+</div>
+
+</body>
+</html>
+
