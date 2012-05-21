@@ -9,9 +9,7 @@
     
     <meta name="description" content="Desc" />
     <meta name="author" content="Greg Dziemidowicz" />
-
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
-
+ 
     <link href="css/dojo.css" rel="stylesheet" />
     
 </head>
@@ -31,7 +29,7 @@
 	<p>Greg Dziemidowicz</p>
 	<p>@dziemid</p>
 
- <div style="position: absolute; top: -80px; left: 520px;"> <img src="xp2011.jpg" /> </div>
+ <div style="position: absolute; top: -80px; left: 530px;"> <img src="xp2011.jpg" /> </div>
     </div>
 
     <div id="aboutTheAudience1" class="step" data-x="2500" data-y="400" data-scale="0.5">
@@ -156,25 +154,36 @@ The first dojo</p>
 	<p style="font-size: 100px;">Using the same kata</p>	
     </div>
 
+
+
     <div id="worksforus_differentteams" class="step" data-x="2200" data-y="2500" data-scale="1">
 	<p style="font-size: 65px;">Having people from</p>	
 	<p style="font-size: 105px;">different teams</p>
     </div>
 
+  <div id="worksforus_onlineplatform" class="step" data-x="3000" data-y="2450" data-scale="1">
+	<p style="font-size: 70px;">Online platform</p>	
+    </div>
+
+
     <div id="worksforus_facilitator" class="step" data-x="2800" data-y="2300" data-scale="1">
 	<p style="font-size: 70px;">Rotating facilitator</p>	
     </div>
 
-    <div id="worksforus_number_of_people" class="step" data-x="2000" data-y="1900" data-scale="1">
+    <div id="worksforus_number_of_people" class="step" data-x="1900" data-y="1900" data-scale="1">
 	<p style="font-size: 90px;">Number of people</p>	
     </div>
 
-    <div id="worksforus_same_place" class="step" data-x="2500" data-y="1750" data-scale="1">
+    <div id="worksforus_same_place" class="step" data-x="2000" data-y="1750" data-scale="1">
 	<p style="font-size: 80px;">Same place&time in public</p>	
     </div>
 
-    <div id="worksforus_expert_typing" class="step" data-x="2900" data-y="1900" data-scale="1">
+    <div id="worksforus_expert_typing" class="step" data-x="2700" data-y="1900" data-scale="1">
 	<p style="font-size: 80px;">Expert typing</p>	
+    </div>
+
+<div id="worksforus_expert_flipchart" class="step" data-x="3000" data-y="1800" data-scale="1">
+	<p style="font-size: 80px;">Flip chart</p>	
     </div>
 
     <div id="worksforus_video" class="step" data-x="3100" data-y="1900" data-scale="0.3">
@@ -222,7 +231,7 @@ The first dojo</p>
 
 	<p style="font-size: 80px;">Coding Dojo @XP2012</p>
 	<p style="font-size: 50px;">Wednesday, 23rd of May <b>5pm</b></p>
-	<p style="font-size: 80px;">Join us!</p>
+	<p style="font-size: 80px;">Join us! &nbsp&nbsp <span style="font-size: 40px;"> tinyurl.com/xp2012-dojo</span></p>
     </div>
 
 </div>
